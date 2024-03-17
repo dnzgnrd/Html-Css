@@ -1,0 +1,43 @@
+body{
+    width: 1500px;
+    height: 900px;
+}
+.ürün{
+    text-align: center;
+    margin-top: 50px;
+    width: 1500px;
+    height: 500px;
+    border: solid 2px;
+
+}
+
+#footer{
+    
+    display: block;
+}
+.bilgi{
+    margin-top: 70px;
+}
+.bilgi a{
+   
+   color: black;
+   
+}
+.bilgi .kurumsal{
+    margin-left: 100px;
+}
+.destek{
+    margin-left: 1200px;
+}
+
+
+
+.dsk{ 
+    text-decoration: none;
+    
+    
+}
+
+.aramamotoru{
+    margin-right: 15px;
+}

@@ -1,0 +1,84 @@
+body{
+    height: 900px;
+    width: 1500px;
+}
+#başlik{
+    margin-bottom: 15px;
+    text-align: center;
+    color: brown;
+}
+.topnav {
+    text-decoration: none;
+    width: 1441px;
+    margin: 20px;
+    
+}
+.topnav li{
+    display: inline-block;
+    margin-left:100px ;
+   
+}
+
+
+#button1{  
+    font-size: 15px;
+    margin-left: 70px;
+  
+}
+#button2{
+    font-size: 15px;
+    margin-right: 90px;
+}
+.btn{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+    
+    padding: 7px;
+    background: green;
+    border-radius: 9px;
+    margin-left: 18px;
+}
+#container{
+    height: 500px;
+}
+
+#footer{
+    
+    display: block;
+}
+.bilgi{
+    margin-top: 70px;
+}
+.bilgi a{
+   
+   color: black;
+   
+}
+.bilgi .kurumsal{
+    margin-left: 100px;
+}
+.destek{
+    margin-left: 1200px;
+}
+
+
+
+.dsk{ 
+    text-decoration: none;
+    
+    
+}
+
+.aramamotoru{
+    margin-right: 15px;
+}
+
+
+#container {
+    margin-left: 40px;
+}
+
+
+
+

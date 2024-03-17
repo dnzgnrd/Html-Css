@@ -1,0 +1,65 @@
+.sepet .başlik4{
+    display: inline;
+    margin: 120px;
+
+    width: 10px;
+} 
+/*
+.ürünkodu .sol{
+    border: solid 2px;
+    width: 100px;
+    height: 100px;
+}
+*/
+.ürünkodu {
+    border: solid 2px;
+    width: 130px;
+    height: 130px;
+    margin-right: 20px;
+    
+}
+
+.sağ{
+    margin-left:200px;
+}
+#başlik6{
+    display: inline;
+    margin-left: 200px;
+    margin-bottom: 200px;
+}
+   
+
+#footer{
+    
+    display: block;
+}
+.bilgi{
+    margin-top: 70px;
+}
+.bilgi a{
+   
+   color: black;
+   
+}
+.bilgi .kurumsal{
+    margin-left: 100px;
+}
+.destek{
+    margin-left: 1200px;
+}
+
+
+
+.dsk{ 
+    text-decoration: none;
+    
+    
+}
+
+.aramamotoru{
+    margin-right: 15px;
+}
+
+#başlik6{
+    margin-left: 500px
+}

@@ -1,0 +1,19 @@
+.btn{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 30px;
+    
+    padding: 7px;
+    background: green;
+    border-radius: 9px;
+    margin-left: 18px;
+}
+.search-button{
+    margin-left: 650px;
+    color: black;
+    
+
+}
+.search-button input{
+    border-radius: 8px;
+}

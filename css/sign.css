@@ -1,0 +1,40 @@
+body{
+    margin: 0; 
+    padding: 0;
+    background:gray;
+}
+.form{
+    width: 200px;
+    padding: 15px;  /* içeriğimin diğer kenarlarla arasındaki sınırı belirledim */
+    text-align: center;
+    position: absolute;  /*tam olarak ortalamak istediğim için kullandım */
+    top: 20%;
+    left: 40%;
+}
+.form input{
+    width: 100%;
+    height: 44px;
+    box-sizing: border-box;
+    border: none;
+}
+.txt{
+    margin:15px;
+    border-radius: 13px;
+}
+.btn{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px;
+    background: rgb(0, 41, 13);
+    border-radius: 9px;
+    margin-left: 38px;
+    
+    
+    
+}
+.btn:hover{
+    transform: scale(0.98);
+}
+
+
